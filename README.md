@@ -4,9 +4,7 @@ CSRF protection for AIR/FastAPI/Starlette using the double-submit cookie pattern
 
 ## Install
 
-```bash
-pip install air-csrf
-```
+Install from git, it's not on pip yet.  This is still experimental.
 
 ## Quick Start
 
